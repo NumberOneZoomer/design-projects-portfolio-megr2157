@@ -1,6 +1,7 @@
 :root > * {
   --md-primary-fg-color: #005035;
 }
+
 .md-header {
-  background: linear-gradient(45deg, #005035 75%, #000000);
+  background: linear-gradient(45deg, #005035 75%, #000000) !important;
 }
