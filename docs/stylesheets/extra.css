@@ -5,3 +5,7 @@
 .md-header {
   background: linear-gradient(45deg, #005035 75%, #000000) !important;
 }
+.md-logo img {
+  height: 3rem; 
+  width: auto;
+}
