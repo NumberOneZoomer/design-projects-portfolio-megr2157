@@ -1,4 +1,4 @@
-# MEGR 2157 – Design Portfolio
+# Ezra K. Bono - MEGR 2157 Portfolio (Sophomore design)
 
 ![MEGR 2156-7 Title](MEGR2156title.png)
 
