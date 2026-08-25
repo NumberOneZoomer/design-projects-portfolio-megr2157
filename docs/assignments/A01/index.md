@@ -24,9 +24,12 @@ Where F is the force of the spring pushing the arm into the close position at ra
 
 B ii. - Assumptions made for both equations is that there are no outside forces, such as gravity, acting on the system, and have no losses due to things like friction. In the torsion spring equation it is also assumed that you are pushing along the arm at a perfect 90 degrees.
 
-C. ![The main body of the carabiner. It is shaped like a C so the arm has a place to open up on the side, along with this the shape of it allows it to put more of the load on the strong side rather than the weak side with the arm that can pivot.](carabiner1.jpg)
+C. ![](carabiner1.jpg)
+The main body of the carabiner. It is shaped like a C so the arm has a place to open up on the side, along with this the shape of it allows it to put more of the load on the strong side rather than the weak side with the arm that can pivot.
 ![While the actual coil spring it's self it hidden away inside of the arm, the place where it attaches to the body is visible. It shows how as you bend the arm downwards it causes the spring inside to compress creating a force pushing it close.](carabiner2.jpg)
+While the actual coil spring it's self it hidden away inside of the arm, the place where it attaches to the body is visible. It shows how as you bend the arm downwards it causes the spring inside to compress creating a force pushing it close.
 ![This third image shows how the arm slots in and "locks" with the main body. A piece of metal sticks out from the main body to stop the arm from going out further than the main body itself.](carabiner3.jpg)
+This third image shows how the arm slots in and "locks" with the main body. A piece of metal sticks out from the main body to stop the arm from going out further than the main body itself.
 
 Two alternative solutions could be just a C clip as it limits complexity and failure points, another alternative could a locking carabiner as it provides a way to lock things from getting in or out of the clip. However in this patent they describe a use case that requires the use of this product to be quick and efficient which is why I believe they left out the locking mechanism found on most carabiners as it provides a hinderance to many people looking for a quick and easy way to clip a few items together.
 
