@@ -3,6 +3,7 @@ site_description: Design portfolio documentation, built with the Analyze / Decid
 
 theme:
   name: material
+  logo: assets/uncc_crown.png
   palette:
     primary: custom
   features:
