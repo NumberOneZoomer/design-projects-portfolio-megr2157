@@ -8,7 +8,8 @@ theme:
   features:
     - navigation.instant
     - navigation.tracking
-
+ extra_css:
+  - stylesheets/extra.css
 nav:
   - Home: index.md
   - About Me: aboutme/index.md
@@ -25,5 +26,3 @@ nav:
       - A9: assignments/A09/index.md
       - A10: assignments/A10/index.md
       - A11: assignments/A11/index.md
- extra_css:
-  - stylesheets/extra.css
