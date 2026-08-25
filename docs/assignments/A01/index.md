@@ -11,11 +11,17 @@ This is the second portfolio I will be analyzing and it is from Nathan Hoong and
 
 ### Product Analysis - Self-Closing Carabiner - https://patents.google.com/patent/US5005266A/en
 A. - The primary function of a Carabiner is to hold or link two or more objects together while allow for slack or play between the objects. A main objective for this product is easy of use and how quickly two objects can be "linked" together.
+
 B i. - One of the main functions of this Carabiner in particular is that it is self closing, as the tasks it was designed for requires that it can be used by a single hand or by someone with low dexterity. In self-closing carabiners use a spring hidden inside of the arm or "tongue" (as stated in the patent) to create a force closing the arm close. The amount of force to overcome this can be described by this equation. 
+
 F<sub>spring</sub>=k*Δx
+
 Where F is the force of the spring pushing the arm into the close position, K is the spring constant and Δx is how far the arm has been opened. Alternatively some self-closing carabiners use a torsion spring rather than coil spring, this can be explained by this equation.
-F<sub>spring</sub> = $\frac{\kappa\theta}{r}$
+
+F<sub>spring</sub> = (κθ)/r
+
 Where F is the force of the spring pushing the arm into the close position at radius r, κ is the torsion spring constant, θ is the angle of deflection, and r is the radius from the spring. 
+
 B ii. - Assumptions made for both equations is that there are no outside forces, such as gravity, acting on the system, and have no losses due to things like friction. In the torsion spring equation it is also assumed that you are pushing along the arm at a perfect 90 degrees. <img width="2160" height="2880" 
 
 ## Decide
