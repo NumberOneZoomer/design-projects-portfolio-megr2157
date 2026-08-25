@@ -34,7 +34,9 @@ This third image shows how the arm slots in and "locks" with the main body. A pi
 Two alternative solutions could be just a C clip as it limits complexity and failure points, another alternative could a locking carabiner as it provides a way to lock things from getting in or out of the clip. However in this patent they describe a use case that requires the use of this product to be quick and efficient which is why I believe they left out the locking mechanism found on most carabiners as it provides a hinderance to many people looking for a quick and easy way to clip a few items together.
 
 ## Decide
-
+ - Since a the homepages main objective is to be a place that can be easily navigated and lead to everything else it must be kept short and concise. Along with this it may provide a brief description of what may be contained in the portfolio along with any general tips or comments. As this is intended for a course that is being currently taken, many things that would be put into a homepage such as what to expect, how it's formatted, etc. has yet to be filled in. Due to this all I have left is the course description and what is planned to be put into the portfolio.
+ - One element I have intentionally changed would be the color of the banner at the top of the page. Due to how light the green was it blended into the white page and didn't stand out, due to this I changed it to the UNCC green which is much darker and represent the institution I am currently attending. Along with this I also changed the logo to the UNCC crown logo.
+ - The standard I hold myself to is to get everything done in a timely manner, while also keeping the language, designs and accessibility professional while still being understandable and functional. I will also commit to explaining my thought process and decision making quite thoroughly as to not leave any unknown or gray areas.
 
 ## Communicate
-
+Completed in About Me.
