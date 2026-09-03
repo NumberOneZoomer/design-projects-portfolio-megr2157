@@ -20,5 +20,12 @@ Firstly we must analyze each joint of the truss to figure out how the forces and
 Secondly we were instructed to solve for each join symbolically so that is what I have done here.
 ![](truss34.png)
 Finally we were instructed to numerically solve for each member and there forces. To find A<sub>y</sub>, A<sub>x</sub>, and B<sub>y</sub> I calculated the total moment of the truss as a whole at points A and B. I would then go on to use these values to solve the rest of the forces in each member. Note: my calculations for θ and	Φ on the left side.
-
+### Calculating Cross Sectional Area and Yield Strength of The Truss
+![](truss4.png)
+To start off, I listed the known and unknow values of the problem. This allows me to quickly know what I need to solve for along with any values I am missing. Along with this it acts as a table for me to easily reference when doing calculations solving for the minimum cross-sectional area needed and the weight of the truss. Then I combined the max sheer stress and max allowed sheer stress formulas together to create a formula that includes all the variables we need, along with the factor of safety requirement, as stated above. I would then do some algebraic manipulation to achieve the formula:
+A<sub>min</sub>=(F.S*F<sub>max</sub>)/σ<sub>yield</sub>
+![](truss5.png)
+Next I would numerically solve for the area, reaching the answer of 2.21x10<sup>-4</sup>m<sup>2</sup>. I would then use this area to estimate the weight of the truss (without pins) using the formula:
+W=ρ*g*A*L
+Where,	ρ is the density of A500 Steel, g is the gravitational constant, A is the cross-sectional area and L is the sum of all the beams. This would give me the estimated weight of 5.76 KG. 
 ## Communicate
