@@ -37,5 +37,21 @@ Where F.S is the factor of safety, V is the max sheer force, τ<sub>yield</sub> 
 ![](truss6.png)
 I would finally solve for the cross-sectional area achieving a minimum area of 0.13224in<sup>2</sup>, I would solve for the weight of the 5 pins using the formula:
 W=ρ*g*A*L
-Where I would get a weight of .02591 lbf per pin or a total of .13455 lb for all 5 pins.
+Where I would get a weight of .02591 lbf per pin or a total of .13455 lb for all 5 pins. Note: To find the pin length I took the length of one of the sides of the truss beam and multiplied it by 1.25
+### Modeling in a CAD software (Solidworks) and Comparing Values.
+![](truss9.png)
+This is the design of the truss modeled in CAD. All the dimensions and cross sectional areas are the same as I have solved in the problem.
+![](truss10.png)
+These were the final values produced by the model in Solidworks. Comparing the weight between Solidworks (8.42 KG) and my own estimations, I may have rounded too harshly leading to inaccuracies in my estimations.
+## Failure Modes in Truss Componants.
+### Truss Beams
+Due to members 12,34,35 all being in compression the likely failure mode of these members is buckling. They are quite thin and long rather than being more thick and short. However members 13,23,45 are in tension which leads to the expected failure mode is yielding or snapping. Since A500 steel is a bit ductile it can stretch up to 25% whereas a much more brittle material such as ceramics or crystal may only stretch .1% before snapping. A way of improving this design is to potentially use composite materials such as carbon fiber which have excellent strength to weight ratios, especially when the load is acting along the fibers, something that can be accounted for in the design of this truss.
+### Truss Pins
+The pins would likely fail due to sheering as all the force of the load is being applied perpendicularly to the pin. While hardened tool steel has a quite high sheer strength, this increases brittleness and lowers toughness. This means a sudden weight change or snap, could sheer the bolt clean off rather than bending it. A way of improving this would to make the pin a double sheer pin rather than a single sheer pin as it double the contact area, subsequently allowing for double the sheer force before snapping. 
 ## Communicate
+### Engineering Lessons Learnt
+I learned how to design a simple truss, while also accounting for safety factors and minimizing weight or complexity. I also learnt how to compare my own hand caculations to one done in a CAD software.
+I spent roughly 8 hours on this assignment.
+https://beamdimensions.com/materials/Steel/ASTM/ASTM_A500/
+https://www.edconsteel.com.au/articles/steel-and-metal-articles/hardness-vs-toughness-tool-steel
+https://gernitex.com/resources/carbon-fiber-properties/
