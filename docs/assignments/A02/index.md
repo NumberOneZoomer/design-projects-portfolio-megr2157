@@ -41,7 +41,7 @@ Where I would get a weight of .02591 lbf per pin or a total of .13455 lb for all
 ### Modeling in a CAD software (Solidworks) and Comparing Values.
 ![](truss9.png)
 This is the design of the truss modeled in CAD. All the dimensions and cross sectional areas are the same as I have solved in the problem.
-![](truss10.png)
+![](truss8.png)
 These were the final values produced by the model in Solidworks. Comparing the weight between Solidworks (8.42 KG) and my own estimations, I may have rounded too harshly leading to inaccuracies in my estimations.
 ## Failure Modes in Truss Componants.
 ### Truss Beams
