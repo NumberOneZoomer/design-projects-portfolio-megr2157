@@ -57,4 +57,5 @@ https://www.edconsteel.com.au/articles/steel-and-metal-articles/hardness-vs-toug
 https://gernitex.com/resources/carbon-fiber-properties/
 ## Downloads
 [Download CAD File](truss.SLDPRT)
+
 [Download Full PDF of My Hand Calculations](handwork.pdf)
