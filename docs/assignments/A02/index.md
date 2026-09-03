@@ -55,3 +55,6 @@ I spent roughly 8 hours on this assignment.
 https://beamdimensions.com/materials/Steel/ASTM/ASTM_A500/
 https://www.edconsteel.com.au/articles/steel-and-metal-articles/hardness-vs-toughness-tool-steel
 https://gernitex.com/resources/carbon-fiber-properties/
+## Downloads
+[Download CAD File](truss.SLDPRT)
+[Download Full PDF of My Hand Calculations]()
