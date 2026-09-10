@@ -57,6 +57,8 @@ Mistakes I made was misplacing forces in solidworks as it was my first time usin
 I would change the design from a circular cross section to a square one, with a width/base of .2 inches, along with upping the force from 400 to 450 lb. Doing this I would assume the bar would shrink because I upped the force while also decreasing the total area for the force to act upon. After doing the calculations (shown below) I would find my assumption to be true as the bar shrank from about 11 inches to 8 inches.
 
 ![](A3D_4.png)
+
+[Download CAD File](bar.SLDPRT)
  
 
 
