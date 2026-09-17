@@ -62,7 +62,10 @@ Overall I spent about 6 hours doing this assignment.
 
 ## Appendix
 Motor Mount sources - https://www.drivesandautomation.co.uk/useful-information/motor-mounting-codes/
+
 [Download My Hand Work!](workjes.pdf) 
+
 [Download CAD File](motor_mount.SLDPRT)
+
 [Download Drawing PDF](motor_mount.pdf)
 
