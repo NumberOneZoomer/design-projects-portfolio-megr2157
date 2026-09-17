@@ -46,11 +46,13 @@ Here is the isometric hand sketch I created, the lengths and size of the model i
 ### CAD Model
 Below is what an isometric view of the model I designed in CAD based upon my formulas and calculations.
 
-![](A4_8.png)
+![](A4_9.png)
 
 Here is all the equations and values used to create the model.
+![](A4D.png)
 
 To go along with the CAD Model, this is the drawing of the model made in Solidworks.
+![](A4_10.png)
 
 ## Communicate
 
