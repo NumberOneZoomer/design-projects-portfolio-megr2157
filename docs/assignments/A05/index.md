@@ -31,11 +31,15 @@ To go along with my calculations is the final multiview sketch of the bracket wi
 [](AED5_11.png)
 [](AED5_12.png)
 # 2517 - Linkage and Fits
-We were tasked with designing a linkage that can slide on and hold on to an equal amount of force used above, along with connecting to a separate feature with a diameter of an inch. Due to the force only acting on one point rather than two the total force is only 650 lbs making the bracket desgined above more than enough to meet these requirements. I would again design the linkage out of titanium, with a total length of 4 inches and a width of 2 inches.
+We were tasked with designing a linkage that can slide on and hold on to an equal amount of force used above, along with connecting to a separate feature with a diameter of an inch. Due to the force only acting on one point rather than two the total force is only 650 lbs making the bracket designed above more than enough to meet these requirements. I would again design the linkage out of titanium, with a total length of 4 inches and a width of 2 inches. In my drawings I also take into account of the tolerances needed to create a proper fit. After looking at the use case and design, along with the requirement of being a running/sliding fit, I ended up choosing a fit class of RC-3 where the tolerances are given on page 653 in the machinery handbook.
 [](AED5_13.png)
 My calculations are shown below, since the diameter is 2 inches and the second shaft is an inch I used the minimum diameter of 1 inch for all my calculations. Reaching that the minimum thickness is .126 inches.
 [](AED5_14.png)
- 
-
-## Communicate
+## Machining Processes
+As for machining processes I would ream the holes to achieve the required tolerances stated in the handbook. As drilling alone cannot reach into the 4 digit of precision, as for processes I would first drill a hole slightly undersize then I would ream to size.
+## Lessons Learned
+Governing failure mode - In most of my calculations the governing dimension would keep flipping between stiffness and strength rather than just staying on one such as stiffness. An example would be feature A where stiffness governed the minimum diameter with a difference of .028 inches.
+Error Propagation - Many times in my calculations I would forget to account for the safety factor, however I would aways catch myself before using the wrong value for a future calculation. 
+Assumption Calculation - One assumption I made was for feature E, shear forces were not taken into account and it was assumed that parts will not shear apart. However as all the force is acting along the plane of where it is connected to feature D I think feature E will fail due to shear stresses way before it would due to deformation or yield failures. However that is just a guess of mine based of my own personal experince.
+In total I spent about 8 hours doing this assignment.
 
