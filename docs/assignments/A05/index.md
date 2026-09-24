@@ -43,3 +43,4 @@ Error Propagation - Many times in my calculations I would forget to account for 
 Assumption Calculation - One assumption I made was for feature E, shear forces were not taken into account and it was assumed that parts will not shear apart. However as all the force is acting along the plane of where it is connected to feature D I think feature E will fail due to shear stresses way before it would due to deformation or yield failures. However that is just a guess of mine based of my own personal experince.
 In total I spent about 8 hours doing this assignment.
 
+[Download My Hand Work!](aed5p.pdf) 
