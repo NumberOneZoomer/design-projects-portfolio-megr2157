@@ -34,5 +34,7 @@ Here is the drawing of the part, with tolerances added.
 ![](AED6_2.png)
 ## Reflection
 I learned about how tolerances can affect final cost of production along with how tolerances are chosen based upon their use cases such as a sliding fit. By putting a tolerance on certain parts it can communicate a higher level of importance for that part.
-
-
+[Download Bracket](AE6.SLDPRT) 
+[Download Bracket Drawing](AE6.SLDDRW) 
+[Download Link](LINK.SLDPRT) 
+[Download Link Drawing](LINK.SLDDRW)
