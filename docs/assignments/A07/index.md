@@ -10,7 +10,9 @@ Firstly, for our tests with the bracket I chose the whole inside of the bracket 
 As for mesh density I would first start with a low density, then medium and then the max density. (if needed) They are shown below, from low to high.
 
 ![](MESH_LOW.png) 
+
 ![](MESH_MID.png) 
+
 ![](MESH_HIGH.png)
 
 They would come out looking like this on the bracket.
