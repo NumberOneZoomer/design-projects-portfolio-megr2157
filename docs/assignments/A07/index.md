@@ -118,4 +118,12 @@ I learned the importance of FEA as it can show what parts are unnecessary to you
 
 # CAD Files & Any files Used
 
+[Download Bracket Design One](AE6_RUN_1.SLDPRT) 
+[Download Bracket Design Two](AE6_RUN_2.SLDPRT) 
+[Download Bracket Design Three](AE6_RUN_3.SLDPRT) 
 
+[Download Bracket Drawing](AE6.SLDDRW) 
+
+[Download Link](LINK.SLDPRT) 
+
+[Download Link Drawing](LINK.SLDDRW)
