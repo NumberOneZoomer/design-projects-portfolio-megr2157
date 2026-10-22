@@ -103,9 +103,19 @@ I then preformed the same simulated loads as I did for design one and two, start
 ![](LINK_10.png)
 ![](LINK_11.png)
 ![](LINK_12.png)
+![](EXCEL_6.png)
 
-## Decide
+I, once again, was able to be within the 7% difference so I only ran two runs. I managed to make the part work and decreased the weight of it in the process.
+
+## Final Table of Numbers for Link Designs
+
+![](LINK_CHART.png)
+
+# Reflections
+
+I learned the importance of FEA as it can show what parts are unnecessary to your final design, allowing for many improvements to made to it. Even something as simple a link was able to be improved upon (made stronger and lighter) through FEA simulations on SOLIDWORKS. Overall I spent about 6 hours on this assignment.
 
 
-## Communicate
+# CAD Files & Any files Used
+
 
