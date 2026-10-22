@@ -16,6 +16,7 @@ As for mesh density I would first start with a low density, then medium and then
 ![](MESH_HIGH.png)
 
 They would come out looking like this on the bracket.
+
 ![](BRACKET_MESH.png)
 
 ## Performing Simulations on Bracket
@@ -42,11 +43,14 @@ I then performed the same test as I did on design one, starting with a low mesh 
 ![](EXCEL_2.png)
 
 I again did not get under the 7% convergence difference but I again would run it three times, so my final table will be using the third attempt. The bracket still failed under load, even after increase the thickness of feature B. So I would add extra support behind feature B along with an extra truss on each side of it to give it extra strength. (As shown below)
+
 # Bracket Design Three
+
 ![](BRACKET_D3_1.png)
 ![](BRACKET_D3_2.png)
 
 I then, once again, preformed the same simulation as I did for design one and two. These are the results.
+
 ![](BRACKET_D3_3.png)
 ![](BRACKET_D3_4.png)
 ![](BRACKET_D3_5.png)
@@ -54,6 +58,7 @@ I then, once again, preformed the same simulation as I did for design one and tw
 
 Same as design one and two I couldn't get below the 7% convergence difference so I again ran the simulation three times, using my final run as the numbers shown in the table below. Even after adding more supports and trusses the bracket would still fail under load, so a major redesign needs to be done. 
 ## Final Table of Numbers for Bracket Designs
+
 ![](BRACKET_CHART.png)
 
 # Bracket Design One
