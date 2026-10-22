@@ -122,8 +122,9 @@ I learned the importance of FEA as it can show what parts are unnecessary to you
 [Download Bracket Design Two](AE6_RUN_2.SLDPRT) 
 [Download Bracket Design Three](AE6_RUN_3.SLDPRT) 
 
-[Download Bracket Drawing](AE6.SLDDRW) 
+[Download Link Design One](LINK.SLDPRT) 
+[Download Link Design Two](LINKR2.SLDPRT) 
+[Download Link Design Three](LINKR3.SLDPRT) 
 
-[Download Link](LINK.SLDPRT) 
-
-[Download Link Drawing](LINK.SLDDRW)
+[Download Excel Sheet](sophopmore.SLDPRT) 
+[Download Tables](A7PDF.SLDPRT) 
