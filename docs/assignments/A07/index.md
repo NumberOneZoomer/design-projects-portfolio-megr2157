@@ -50,7 +50,11 @@ I then, once again, preformed the same simulation as I did for design one and tw
 ![](BRACKET_D3_5.png)
 ![](EXCEL_3.png)
 
+Same as design one and two I couldn't get below the 7% convergence difference so I again ran the simulation three times, using my final run as the numbers shown in the table below. Even after adding more supports and trusses the bracket would still fail under load, so a major redesign needs to be done. 
+## Final Table of Numbers for Bracket Designs
+![](BRACKET_CHART.png)
 
+# Bracket Design One
 ## Decide
 
 
