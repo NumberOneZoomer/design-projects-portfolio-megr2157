@@ -74,6 +74,7 @@ Here all the drawings of my parts.
 ![](a8_drawing8.png) 
 
 ## Reflection
+
 This assignment taught me a lot about how to design components based on designs already made and how to change my design to fit around it. It was a good learning experience on how to assemble a bunch of parts into one assembly in SOLIDWORKS and allows me to do much more with the knowledge gained. I spent about 8 hours doing this assignment.
 
 ## Download My Files!
@@ -83,3 +84,7 @@ This assignment taught me a lot about how to design components based on designs 
 [Download Geabox Cover](gearbox_cover.SLDPRT)
 [Download Output Shaft](GB_PIN_OUT.SLDPRT)
 [Download Input Shaft](GB_PIN_IN.SLDPRT)
+[Download Journal Bearings](bearing_1)
+[Download Journal Bearings](bearing_2)
+[Download My Handwork!](a7_pdf.pdf)
+
