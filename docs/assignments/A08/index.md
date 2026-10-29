@@ -80,11 +80,18 @@ This assignment taught me a lot about how to design components based on designs 
 ## Download My Files!
 
 [Download Assembly](Assem2.SLDASM)
+
 [Download Geabox](gearbox.SLDPRT)
+
 [Download Geabox Cover](gearbox_cover.SLDPRT)
+
 [Download Output Shaft](GB_PIN_OUT.SLDPRT)
+
 [Download Input Shaft](GB_PIN_IN.SLDPRT)
+
 [Download Journal Bearings](bearing_1)
+
 [Download Journal Bearings](bearing_2)
+
 [Download My Handwork!](a7_pdf.pdf)
 
