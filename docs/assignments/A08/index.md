@@ -52,7 +52,7 @@ I then used these equations to model my gearbox in SOLIDWORKS. shown below.
 
 ![](solid1.png) 
 
-After designing my gearbox I began to assemble it in SOLIDWORKS using gears and journal bearings I chose on McMaster-Carr. (The journal bearings used are, "6391K753_Oil-Embedded 841 Bronze Sleeve Bearing" and "6391K126_Oil-Embedded 841 Bronze Sleeve Bearing"
+After designing my gearbox I began to assemble it in SOLIDWORKS using gears and journal bearings I chose on McMaster-Carr. (The journal bearings used are, "6391K753_Oil-Embedded 841 Bronze Sleeve Bearing" and "6391K126_Oil-Embedded 841 Bronze Sleeve Bearing")
 
 ![](assm.png) 
 ![](assm2.png)
