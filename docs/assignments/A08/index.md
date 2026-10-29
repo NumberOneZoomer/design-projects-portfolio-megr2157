@@ -68,7 +68,6 @@ Here all the drawings of my parts.
 ![](a8_drawing1.png) 
 ![](a8_drawing2.png) 
 ![](a8_drawing3.png) 
-![](a8_drawing4.png) 
 ![](a8_drawing6.png) 
 ![](a8_drawing7.png) 
 ![](a8_drawing8.png) 
