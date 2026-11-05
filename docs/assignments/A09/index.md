@@ -1,4 +1,4 @@
-# A9 – Pulleys
+# A9 – Pulley System
 
 ## Objective
 To design a pulley system under a certain set of criteria and situations.
