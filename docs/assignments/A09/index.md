@@ -67,7 +67,7 @@ In doing this assignment I learnt how pulleys and belts work together and how to
 
 ## Links and Work
 
-Belt Link - https://www.mcmaster.com/3044K608-1835T909/
+[Belt Link](https://www.mcmaster.com/3044K608-1835T909/)
 
-Download My Hand Work! - ![](A9_PDF.pdf) 
+[Download My Hand Work!](A9_PDF.pdf) 
 
