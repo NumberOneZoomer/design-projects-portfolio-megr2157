@@ -1,8 +1,5 @@
 D# A10 – Lead Screw Translating System
 
-## Objective
-
-
 ## Lead Screw Calculations
 
 ### Lead Screw Diameter
