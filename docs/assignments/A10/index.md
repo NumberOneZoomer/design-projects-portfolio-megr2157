@@ -66,6 +66,16 @@ Since our minimum side length of our stress analysis was higher than the minimum
 
 ![](A10_5.png)
 
+| Part Number | Quantity |Name| Unit Cost | Total Cost | |
+| -----    | ----          | ----| ---- | ---- | |
+|47065T101 | 4          | [T-Slotted Framing](https://www.mcmaster.com/47065T554) | 11.19 | 44.76 | |
+|95082A641 | 2          | [Precision Acme Flange](https://www.mcmaster.com/95082A641) | 37.06 | 74.12 | |
+|95072A881 | 2          | [Precision Acme Externally Threaded Nut](https://www.mcmaster.com/95072A881) | 35.78 | 71.56 | |
+|98940A191 | 2          | [4140 Black-Oxide Steel Precision Acme Lead Screw](https://www.mcmaster.com/98940A191) | 35.95 | 71.9 | |
+| Total | |||| 262.34 |
+
+
+
 
 ## Decide
 
