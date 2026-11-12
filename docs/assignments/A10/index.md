@@ -58,8 +58,13 @@ The next thing to solve for the max deflection on the beam. We were given a hard
 
 ![](A10_3.png)
 
-Once all variables were listed, the next step is to list all equations and solve symbolically. Once solved symbolically we solved for side length numerically giving us a final answer of 21.27mm
+Once all variables were listed, the next step is to list all equations and solve symbolically. Once solved symbolically we solved for side length numerically giving us a final side length of 21.27mm.
 
+![](A10_4.png)
+
+Since our minimum side length of our stress analysis was higher than the minimum side length of our deflection analysis we must use a side length of 31mm or greater. Taking this into account we have a beam that is 127mm long and is 31x31mm wide, two holes are drilled into the bar to fit both of the lead screws, each being at 7.62mm.
+
+![](A10_5.png)
 
 
 ## Decide
