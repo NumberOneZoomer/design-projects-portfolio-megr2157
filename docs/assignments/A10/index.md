@@ -66,6 +66,7 @@ Since our minimum side length of our stress analysis was higher than the minimum
 
 ![](A10_5.png)
 
+
 | Part Number | Quantity |Name| Unit Cost | Total Cost | |
 | -----    | ----          | ----| ---- | ---- | |
 |47065T101 | 4          | [T-Slotted Framing](https://www.mcmaster.com/47065T554) | 11.19 | 44.76 | |
