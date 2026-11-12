@@ -43,6 +43,25 @@ Once solved, we then found a nut and flange on McMaster-Carr that would fit our 
 
 ![](A10NF.png)
 
+## Crosshead Calculations
+### Stress Analysis 
+The first thing we must calculate for our crosshead is the max stress applied on the bar, when at a max load of 2kN. We must to this to figure out how thick we must make our bar to not snap under load. Firstly we made a few assumptions, we decided on a square cross-section as it's much easier to calculate and when assembled it less complex to manufacture and assemble. Our second assumption is that our material is ATSM A36 Steel, we choose this material due to wide use already in many applications that involve beams with a point load on them, our second reason for choosing is that it is readily available. The first step we did to solve for the max stress was to list all knowns and unknowns and drew and FBD to go along.
+
+![](A10_1.png)
+
+Afterwards we listed all equations and then solved for the side length symbolically, once symbolically solved we then solved for it numerically. Doing so gave us a minimum side length of 31 mm.
+
+![](A10_2.png)
+
+### Deflection Analysis
+The next thing to solve for the max deflection on the beam. We were given a hard limit of no more than .1mm deflection. To find the minimum size needed to achieve this we first listed all knowns and unknowns and drew and FBD.
+
+![](A10_3.png)
+
+Once all variables were listed, the next step is to list all equations and solve symbolically. Once solved symbolically we solved for side length numerically giving us a final answer of 21.27mm
+
+
+
 ## Decide
 
 
