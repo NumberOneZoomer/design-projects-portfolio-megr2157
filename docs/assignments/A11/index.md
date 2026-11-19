@@ -192,6 +192,22 @@ Finalized bearing support
 
 <img src="https://github.com/user-attachments/assets/b1c824bd-4f8d-4f85-a943-6a92ac2e0aa5" />
 
+## Bill of Materials
+
+| Part Number | Quantity | Name | Unit Cost | Total Cost |
+| :--- | :--- | :--- | :--- | :--- |
+| 1 | 2 | [Stepper Motor](https://www.mcmaster.com/47065T554) | 129 | 258 |
+| 2 | 2 | [Couplings](https://www.mcmaster.com/95082A641) | 1.27 | 2.54 |
+| 3 | 2 | [Bearings](https://www.mcmaster.com/95072A881) | 6.91 | 13.82 |
+| 4 | 2 | [Connectors](https://www.mcmaster.com/98940A191) | 6.84 | 13.68 |
+| **Total** | | | | **288.04** |
+
+| Person | Hours | Cost Per Hour | Total Cost | 
+| :--- | :--- | :--- | :--- |
+| Zachary | 12 | 30 | 360 |
+| Ezra | 10 | 30 | 300 |
+| **Total** | | | | **660** |
+
 
 ## Lessons Learned (Ezra Bono & Zachary Prada)
 
