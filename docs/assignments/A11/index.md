@@ -206,7 +206,7 @@ Finalized bearing support
 | :--- | :--- | :--- | :--- |
 | Zachary | 12 | 30 | 360 |
 | Ezra | 10 | 30 | 300 |
-| **Total** | | | | **660** |
+| **Total** | | | **660** |
 
 
 ## Lessons Learned (Ezra Bono & Zachary Prada)
