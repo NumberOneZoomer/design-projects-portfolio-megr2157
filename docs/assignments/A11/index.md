@@ -196,10 +196,10 @@ Finalized bearing support
 
 | Part Number | Quantity | Name | Unit Cost | Total Cost |
 | :--- | :--- | :--- | :--- | :--- |
-| 1 | 2 | [Stepper Motor](https://www.mcmaster.com/47065T554) | 129 | 258 |
-| 2 | 2 | [Couplings](https://www.mcmaster.com/95082A641) | 1.27 | 2.54 |
-| 3 | 2 | [Bearings](https://www.mcmaster.com/95072A881) | 6.91 | 13.82 |
-| 4 | 2 | [Connectors](https://www.mcmaster.com/98940A191) | 6.84 | 13.68 |
+| 1 | 2 | [Stepper Motor](https://www.applied-motion.com/s/product/step-motor-high-torqueht23598dgba/01t5i000007VmfQAAS?name=HT23-598D-GBA-NEMA-23-High-Torque-Stepper-Motor-with-Double-Shaft-and-GBA-Encoder) | 129 | 258 |
+| 2 | 2 | [Couplings](https://www.omc-stepperonline.com/6-35mm-6-35mm-flexible-coupling-18x25mm-cnc-stepper-motor-shaft-coupler-st-fc05) | 1.27 | 2.54 |
+| 3 | 2 | [Bearings](https://www.mcmaster.com/60355K336/) | 6.91 | 13.82 |
+| 4 | 2 | [Connectors](https://www.grainger.com/product/80-20-Inside-Corner-Bracket-Inside-5JRP7) | 6.84 | 13.68 |
 | **Total** | | | | **288.04** |
 
 | Person | Hours | Cost Per Hour | Total Cost | 
