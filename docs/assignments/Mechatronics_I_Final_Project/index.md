@@ -15,15 +15,15 @@ Here are the photos and videos I have taken of my project's progress so far.
 
 (When the object is far away. LED OFF)
 
-![](MECH1.png)
+![](MECH_1.png)
 
 (When the object is semi-close. LED OFF)
 
-![](MECH2.png)
+![](MECH_2.png)
 
 (When the object is really close. LED ON)
 
-![](MECH3.png)
+![](MECH_3.png)
 
 Video of the LED and the sensor.
 
