@@ -10,6 +10,7 @@ Our original goal was to create a fan that cooled objects off when they are in c
 I did meet my goal of getting the ultrasonic sensor up and running and being able to use an LED to show that something is within range of it. Since I was able to complete this jumping to turning on a motor will be very easy. So by the next check in I can hopefully show progress on one of my stretch goals. I do not need pivot as my MVP is very achievable and doable.
 
 
-https://github.com/user-attachments/assets/df47cdf2-bc80-4ba3-9542-710a24b31a4f
-
+<video controls width="100%">
+  <source src="https://github.com/user-attachments/assets/df47cdf2-bc80-4ba3-9542-710a24b31a4f">
+</video>
 
